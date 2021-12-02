@@ -7,3 +7,6 @@ feat(#2): Segundo commit desde otro usuario desde master
 feat(#3): Tercer commit con mi usuario desde release
 
 
+feat(#4): Cuarto commit con mi usuario desde release
+
+
